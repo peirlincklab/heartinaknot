@@ -1,4 +1,4 @@
-# Heart in a knot: unraveling the impact of the nested tori myofiber architecture on ventricular mechanics
+# Nested tori myofiber architecture modeling for cardiac mechanics
 When using, please cite  
 **"Heart in a knot: unraveling the impact of the nested tori myofiber architecture on ventricular mechanics",  
 Kasra Osouli, Francesco De Gaetano, Maria Laura Costantino, Mathias Peirlinck  
